@@ -1,0 +1,7 @@
+sno={1:[11,'Steve','Male','bca',9.8],2:[12,'Angel','Female','bba',9.5],3:[13,'Kane','Male','bca',9.7],4:[14,'Irani','Female','bca',9.4]}
+a=int(input('enter student number:'))
+print("student no:",sno[a][0])
+print("student name:",sno[a][1])
+print("gender:",sno[a][2])
+print("group:",sno[a][3])
+print("result:",sno[a][4])
